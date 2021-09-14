@@ -1,6 +1,9 @@
 ### Hi there 🐦
 
 Thanks for visiting! I am an up and coming Software Engineer who lives in Clinton, MD.
+
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
 <!--
 **avisjrjr/avisjrjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
