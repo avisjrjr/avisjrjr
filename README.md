@@ -1,8 +1,13 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### Hi there 🐦
 
 Thanks for visiting! I am an up and coming Software Engineer who lives in Clinton, MD.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 
 
 <!--
